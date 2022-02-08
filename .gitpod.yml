@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "Init env var value is $AN_ENV_VAR"
+    command: echo "Command env var valuel is $AN_ENV_VAR"
